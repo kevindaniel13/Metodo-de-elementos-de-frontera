@@ -1,0 +1,19 @@
+name: bem
+channels:
+ - conda-forge
+ - default
+dependencies:
+ - conda
+ - python>=3.7
+ - pip
+ - jupyter_console
+ - qt=5.9
+ - pyqt=5.9
+ - spyder
+ - jupyterlab
+ - numpy
+ - scipy
+ - matplotlib
+ - sympy
+ - pyvista
+ - meshio
